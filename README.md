@@ -4,7 +4,8 @@
 **  
 
 
-## AIM  : To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INSTRUMENTATION AMPLIFIERS  circuits using LT- SPICE                
+## AIM  :
+To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INSTRUMENTATION AMPLIFIERS  circuits using LT- SPICE                
 
 
 
