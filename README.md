@@ -40,10 +40,12 @@ To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INST
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/b1b2662e-115a-44ce-bee2-ac06f91913b9" />
 
 ## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
-<img width="1919" height="998" alt="image" src="https://github.com/user-attachments/assets/8b02be3d-75d1-4796-9f21-ce496e6d8b2e" />
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/cae7ae3b-3767-4542-a250-381eafdcc942" />
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/bc80484b-9f85-42e2-ab2f-ed76171db064" />
+<img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/e3a1e3f4-23a7-4013-b227-b3f849fb4e25" />
+
 
 ## RESULT
 Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
